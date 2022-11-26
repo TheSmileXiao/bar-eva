@@ -1,0 +1,14 @@
+h2{
+    color:white;
+    text-align: center;
+    padding: 20px;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: clamp(2rem, 2.5vw, 3rem);
+}
+
+.container{
+    align-items: center;
+    min-height: 100vh;
+    background-color:#2C2F33;
+    color: black;
+}

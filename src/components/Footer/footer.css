@@ -1,0 +1,10 @@
+.footerContainer{
+    color: white;
+    background-color: black;
+    height: auto;
+    padding: 10px;
+}
+.footerContainer p{
+    color: white;
+    font:italic 1em Georgia;
+}
